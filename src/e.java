@@ -3,10 +3,6 @@
  */
 public class e {
     public static void main(String[] args) {
-        厘徭失議
-                最最最最
-                込込
-                        才細細
-                        222222
+       1111111
     }
 }
