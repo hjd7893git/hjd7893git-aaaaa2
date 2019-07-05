@@ -3,5 +3,8 @@
  */
 public class e {
     public static void main(String[] args) {
-     213213213123123123
+        b vs = new b("23");
+
+        System.out.pri2131312312312312312ntln((false ==false));
+    }
 }
