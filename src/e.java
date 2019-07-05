@@ -3,12 +3,8 @@
  */
 public class e {
     public static void main(String[] args) {
-        我自己的
-                呵呵呵呵
-                哈哈
-                        和嘿嘿
-                        222222
-                                2222222啦啦啦
-                马马马kkkkkkkkkkkkkkkk
+        b vs = new b("23");
+
+        System.out.println((false ==false));
     }
 }
