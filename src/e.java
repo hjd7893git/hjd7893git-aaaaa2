@@ -3,8 +3,5 @@
  */
 public class e {
     public static void main(String[] args) {
-        b vs = new b("23");
-
-        System.out.println((false ==false));
-    }
+     213213213123123123
 }
