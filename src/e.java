@@ -11,7 +11,8 @@ public class e {
 //        System.out.println(ss.substring(ss.indexOf("-")+1));
 //        System.out.println(ss.substring(0,ss.indexOf(".")));
 
-        System.out.println(ss.indexOf(s1) );qweqweq
+        System.out.println(ss.indexOf(s1) );
+        21321323
     }
 }
 21321321
