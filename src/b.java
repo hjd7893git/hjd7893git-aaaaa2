@@ -6,4 +6,14 @@ public final class b {
     b (String a){
         this.a =a;
     }
+
+    qeqwe
+    qeqweewq
+            w
+    eqw
+
+    public void setEqw(w eqw) {
+        eqweqw
+                e
+    }
 }
